@@ -313,5 +313,3 @@ Several industry groups—especially Electrical Equipment, Automobiles, and Tech
 
 
 
-
-
