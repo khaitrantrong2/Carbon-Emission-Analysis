@@ -11,7 +11,9 @@ Carbon emissions account for over 75% of global emissions and represent a major 
 
 ## Data structure
 ### Table 1:
+
 Use query below to view data:
+
 ``sql
 SELECT *
 FROM product_emissions pe 
@@ -27,7 +29,9 @@ Result:
 |10261-2-2017|14|16|25|2017|Multifunction Printers|110.0|1818|25.08|4.51|70.41|
 
 ### Table 2:
+
 Use query below to view data:
+
 ``sql
 SELECT * FROM companies
 LIMIT 5;``
@@ -43,7 +47,9 @@ Result:
 
 
 ### Table 3:
+
 Use query below to view data:
+
 ``sql
 SELECT * FROM countries
 LIMIT 5;``
@@ -59,7 +65,9 @@ Result:
 
 
 ### Table 4:
+
 Use query below to view data:
+
 ``sql
 SELECT * FROM industry_groups
 LIMIT 5;``
