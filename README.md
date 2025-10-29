@@ -133,7 +133,7 @@ Results: <b>Top 10 products with highest contribution to Carbon Emissions</b>
 
 Conclusion:
 
-
+Large-scale products like wind turbines and heavy vehicles have the highest carbon footprints. While some serve sustainable purposes, their production still emits heavily. Identifying these helps guide cleaner design and smarter manufacturing choices.
 
 ### 2.What are the industry groups of these products?
 
@@ -166,6 +166,7 @@ Results: <b>Top 10 industry group of products with highest contribution to Carbo
 
 Conclusion:
 
+Electrical Equipment and Automobiles lead in emissions due to energy-intensive production. Focusing sustainability efforts on these sectors can drive meaningful reductions in overall carbon impact.
 
 ### 3.What are the industries with the highest contribution to carbon emissions?
 
