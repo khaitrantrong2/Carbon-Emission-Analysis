@@ -31,6 +31,7 @@ Use query below to view data:
 ``sql
 SELECT * FROM companies
 LIMIT 5;``
+
 Result:
 |id|company_name|
 |--|------------|
@@ -46,6 +47,7 @@ Use query below to view data:
 ``sql
 SELECT * FROM countries
 LIMIT 5;``
+
 Result:
 |id|country_name|
 |--|------------|
@@ -61,6 +63,7 @@ Use query below to view data:
 ``sql
 SELECT * FROM industry_groups
 LIMIT 5;``
+
 Result:
 |id|industry_group|
 |--|--------------|
@@ -73,6 +76,7 @@ Result:
 
 ### 
 Use query below to view data:
+
 sql``
 SELECT COUNT(product_name) AS 'Total number of products',
        COUNT(DISTINCT product_name) AS 'Number of distinct products'
