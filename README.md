@@ -10,9 +10,8 @@ This report aims to analyze carbon emissions to examine the carbon footprint acr
 Carbon emissions account for over 75% of global emissions and represent a major environmental challenge. These emissions contribute to the accumulation of greenhouse gases in the atmosphere, leading to climate change, planetary warming, and various environmental disasters. Identifying sectors with the highest levels of emissions is crucial. By analyzing data across countries and years, we can observe trends and better understand the environmental impact of different industries. This supports informed decision-making in sustainable development.
 
 ## Data structure
-###
+### Table 1:
 Use query below to view data:
-
 ``sql
 SELECT *
 FROM product_emissions pe 
@@ -27,8 +26,60 @@ Result:
 |10261-1-2017|14|16|25|2017|Multifunction Printers|110.0|1488|30.65|5.51|63.84|
 |10261-2-2017|14|16|25|2017|Multifunction Printers|110.0|1818|25.08|4.51|70.41|
 
+### Table 2:
+Use query below to view data:
+``sql
+SELECT * FROM companies
+LIMIT 5;``
+Result:
+|id|company_name|
+|--|------------|
+|1|"Autodesk, Inc."|
+|2|"Casio Computer Co., Ltd."|
+|3|"Cisco Systems, Inc."|
+|4|"CNX Coal Resources, LP"|
+|5|"Coca-Cola Enterprises, Inc."|
 
+
+### Table 3:
+Use query below to view data:
+``sql
+SELECT * FROM countries
+LIMIT 5;``
+Result:
+|id|country_name|
+|--|------------|
+|1|Australia|
+|2|Belgium|
+|3|Brazil|
+|4|Canada|
+|5|Chile|
+
+
+### Table 4:
+Use query below to view data:
+``sql
+SELECT * FROM industry_groups
+LIMIT 5;``
+Result:
+|id|industry_group|
+|--|--------------|
+|1|"Consumer Durables, Household and Personal Products"|
+|2|"Food, Beverage & Tobacco"|
+|3|"Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber"|
+|4|"Mining - Iron, Aluminum, Other Metals"|
+|5|"Pharmaceuticals, Biotechnology & Life Sciences"|
+
+
+### 
+Use query below to view data:
 sql``
 SELECT COUNT(product_name) AS 'Total number of products',
        COUNT(DISTINCT product_name) AS 'Number of distinct products'
 FROM product_emissions pe;``
+
+Results:
+|Total number of products|Number of distinct products|
+|------------------------|---------------------------|
+|1037|661|
+
