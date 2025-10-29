@@ -11,11 +11,13 @@ Carbon emissions account for over 75% of global emissions and represent a major 
 
 ## Data structure
 ###
+Use query below to view data:
 ``sql
 SELECT *
 FROM product_emissions pe 
 LIMIT 5;``
 
+Result:
 |id|company_id|country_id|industry_group_id|year|product_name|weight_kg|carbon_footprint_pcf|upstream_percent_total_pcf|operations_percent_total_pcf|downstream_percent_total_pcf|
 |--|----------|----------|-----------------|----|------------|---------|--------------------|--------------------------|----------------------------|----------------------------|
 |10056-1-2014|82|28|2|2014|Frosted Flakes(R) Cereal|0.7485|2|57.50|30.00|12.50|
