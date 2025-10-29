@@ -12,6 +12,7 @@ Carbon emissions account for over 75% of global emissions and represent a major 
 ## Data structure
 ###
 Use query below to view data:
+
 ``sql
 SELECT *
 FROM product_emissions pe 
