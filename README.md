@@ -190,6 +190,7 @@ Results: <b>Top 1 Industry Group with highest contribution to Carbon Emissions</
 
 Conclusion:
 
+The Electrical Equipment and Machinery industry ranks highest in carbon emissions, with a total footprint of over 9.8 million units. This highlights the need for cleaner production methods and sustainability initiatives in energy-intensive sectors.
 
 ### 4.What are the companies with the highest contribution to carbon emissions?
 
@@ -216,6 +217,7 @@ Results: <b>Top 1 Company with highest contribution to Carbon Emissions</b>
 
 Conclusion:
 
+Gamesa Corporación Tecnológica, S.A. is the top contributor to carbon emissions among all companies analyzed, with a total footprint of nearly 9.8 million units. This emphasizes the need for large industrial firms to adopt cleaner technologies and more sustainable production practices.
 
 ### 5.What are the countries with the highest contribution to carbon emissions?
 
@@ -239,6 +241,7 @@ Results: <b>Top 1 Country with highest contribution to Carbon Emissions</b>
 
 Conclusion:
 
+Spain is the top-emitting country in the dataset, with a total carbon footprint of over 9.78 million units. This highlights the importance of national-level strategies to reduce industrial emissions and promote sustainable development.
 
 ### 6.What is the trend of carbon footprints (PCFs) over the years?
 
@@ -266,6 +269,7 @@ Results: <b> Trend of carbon footprints (PCFs) over the years</b>
 
 Conclusion:
 
+Carbon emissions fluctuated from 2013 to 2017, with a sharp peak in 2016. This suggests possible changes in production scale or industry activity, highlighting the need for consistent monitoring and emission-reduction strategies over time.
 
 ### 7.Which industry groups has demonstrated the most notable decrease in carbon footprints (PCFs) over time?
 
@@ -305,6 +309,7 @@ Results: <b> Top 10 Industry groups has demonstrated the most notable decrease i
 
 Conclusion:
 
+Several industry groups—especially Electrical Equipment, Automobiles, and Technology Hardware—showed significant reductions in carbon footprints over time. This reflects positive progress in emission control and cleaner production practices across key sectors.
 
 
 
